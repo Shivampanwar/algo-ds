@@ -1,5 +1,5 @@
 def binsearch_loop(array,value):
-    start=array[0]
+    start=0
     end=len(array)-1
     while start<=end:
         mid=(start+end)/2
@@ -15,3 +15,4 @@ def binsearch_loop(array,value):
 test_list = [1,3,9,11,15]
 print binsearch_loop(test_list,6)
 print binsearch_loop(test_list,15)#
+print binsearch_loop(test_list,1)#
