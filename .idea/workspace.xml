@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dd162fee-9491-4be9-bf52-7370713140fd" name="Default Changelist" comment="Added Bubble sort with and without recursion">
-      <change afterPath="$PROJECT_DIR$/Patterns/pattern6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sorting/insertionsort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sorting/quicksort.py" afterDir="false" />
+    <list default="true" id="dd162fee-9491-4be9-bf52-7370713140fd" name="Default Changelist" comment="Added few more patterns and quick sort">
+      <change afterPath="$PROJECT_DIR$/Arrays/Find Duplicate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/leaderinarray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/longestsubstring.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/noofplatforms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/pushzerostoEnd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/sort012.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/wave_matrix.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sorting/quicksort.py" beforeDir="false" afterPath="$PROJECT_DIR$/sorting/quicksort.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,19 +21,31 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/binarysearch.py">
+        <entry file="file://$PROJECT_DIR$/Arrays/wave_matrix.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+            <state relative-caret-position="274">
+              <caret line="30" column="12" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="12" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Arrays/longestsubstring.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/sorting/quicksort.py">
+        <entry file="file://$PROJECT_DIR$/Arrays/noofplatforms.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+            <state relative-caret-position="152">
+              <caret line="8" column="29" lean-forward="true" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -74,6 +91,15 @@
         <option value="$PROJECT_DIR$/sorting/insertionsort.py" />
         <option value="$PROJECT_DIR$/Patterns/pattern6.py" />
         <option value="$PROJECT_DIR$/sorting/quicksort.py" />
+        <option value="$PROJECT_DIR$/Arrays/Find Duplicate.py" />
+        <option value="$PROJECT_DIR$/Arrays/sort123.py" />
+        <option value="$PROJECT_DIR$/Arrays/pushzerostoEnd.py" />
+        <option value="$PROJECT_DIR$/Arrays/traindeptime.py" />
+        <option value="$PROJECT_DIR$/Arrays/leaderinarray.py" />
+        <option value="$PROJECT_DIR$/Arrays/sort012.py" />
+        <option value="$PROJECT_DIR$/Arrays/wave_matrix.py" />
+        <option value="$PROJECT_DIR$/Arrays/longestsubstring.py" />
+        <option value="$PROJECT_DIR$/Arrays/noofplatforms.py" />
       </list>
     </option>
   </component>
@@ -99,7 +125,7 @@
             <path>
               <item name="algo-ds" type="b2602c69:ProjectViewProjectNode" />
               <item name="algo-ds" type="462c0819:PsiDirectoryNode" />
-              <item name="sorting" type="462c0819:PsiDirectoryNode" />
+              <item name="Arrays" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -124,8 +150,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.quicksort">
-    <configuration name="insertionsort" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.noofplatforms">
+    <configuration name="leaderinarray" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algo-ds" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -133,11 +159,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sorting" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Arrays" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sorting/insertionsort.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Arrays/leaderinarray.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,7 +172,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pattern4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="longestsubstring" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algo-ds" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -154,11 +180,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Patterns" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Arrays" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Patterns/pattern4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Arrays/longestsubstring.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -167,7 +193,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pattern5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="noofplatforms" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algo-ds" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -175,11 +201,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Patterns" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Arrays" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Patterns/pattern5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Arrays/noofplatforms.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -188,7 +214,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pattern6" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="sort012" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algo-ds" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -196,11 +222,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Patterns" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Arrays" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Patterns/pattern6.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Arrays/sort012.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -209,7 +235,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="quicksort" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="wave_matrix" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algo-ds" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -217,11 +243,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sorting" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Arrays" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sorting/quicksort.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Arrays/wave_matrix.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -232,11 +258,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.quicksort" />
-        <item itemvalue="Python.pattern6" />
-        <item itemvalue="Python.insertionsort" />
-        <item itemvalue="Python.pattern5" />
-        <item itemvalue="Python.pattern4" />
+        <item itemvalue="Python.noofplatforms" />
+        <item itemvalue="Python.longestsubstring" />
+        <item itemvalue="Python.wave_matrix" />
+        <item itemvalue="Python.leaderinarray" />
+        <item itemvalue="Python.sort012" />
       </list>
     </recent_temporary>
   </component>
@@ -265,7 +291,14 @@
       <option name="project" value="LOCAL" />
       <updated>1546238783993</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added few more patterns and quick sort">
+      <created>1546520597778</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1546520597778</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -292,18 +325,16 @@
     </layout>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <MESSAGE value="Modified stack" />
     <MESSAGE value="Added Bubble sort with and without recursion" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Bubble sort with and without recursion" />
+    <MESSAGE value="Added few more patterns and quick sort" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added few more patterns and quick sort" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/LinkedList.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1634">
-          <caret line="86" selection-start-line="86" selection-end-line="86" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/stack.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1083">
@@ -404,8 +435,70 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sorting/quicksort.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+        <state relative-caret-position="323">
+          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LinkedList.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1292">
+          <caret line="68" column="28" selection-start-line="68" selection-start-column="28" selection-end-line="68" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Arrays/pushzerostoEnd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="21" lean-forward="true" selection-start-column="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Arrays/Find Duplicate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Arrays/leaderinarray.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Arrays/sort012.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="25" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Arrays/wave_matrix.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="30" column="12" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Arrays/longestsubstring.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Arrays/noofplatforms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="29" lean-forward="true" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
         </state>
       </provider>
     </entry>

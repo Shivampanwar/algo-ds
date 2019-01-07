@@ -15,3 +15,4 @@ def partition(array, start, end):
 
 
 print partition([1, 3, 5, 16, 4, 10, 17, -1, 9], 0, 8)
+3
