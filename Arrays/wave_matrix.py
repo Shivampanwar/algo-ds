@@ -3,34 +3,64 @@ import sys
 import numpy as np
 
 
-def wave(new_array):
-    row, column = new_array.shape[0], new_array.shape[1]
-    count = 0  # for columns
-    i = 0  ##for row
-    while count < column:
-        counter = False
-        if not counter:
-            if i == 0:
-                counter = True
-                while i < row:
-                    sys.stdout.write(str(new_array[i][count]))
-                    sys.stdout.write(" ")
-                    i += 1
-                i += -1
-        if not counter:
-            if i == row - 1:
-                while i > -1:
-                    sys.stdout.write(str(new_array[i][count]))
-                    sys.stdout.write(" ")
-                    i += -1
-                i += 1
-        count += 1
+def spiralPrint(m, n, a):
+    k = 0;
+    l = 0
+
+    ''' k - starting row index 
+        m - ending row index 
+        l - starting column index 
+        n - ending column index 
+        i - iterator '''
+
+    while (k < m and l < n):
+
+        # Print the first row from
+        # the remaining rows
+        for i in range(l, n):
+            # print(a[k][i], end = " ")
+            sys.stdout.write(str(a[k][i]))
+            sys.stdout.write(" ")
+
+        k += 1
+
+        # Print the last column from
+        # the remaining columns
+        for i in range(k, m):
+            # print(a[i][n - 1], end = " ")
+            sys.stdout.write(str(a[i][n - 1]))
+            sys.stdout.write(" ")
+
+        n -= 1
+
+        # Print the last row from
+        # the remaining rows
+        if (k < m):
+
+            for i in range(n - 1, (l - 1), -1):
+                # print(a[m - 1][i], end = " ")
+                sys.stdout.write(str(a[m - 1][i]))
+                sys.stdout.write(" ")
+
+            m -= 1
+
+        # Print the first column from
+        # the remaining columns
+        if (l < n):
+            for i in range(m - 1, k - 1, -1):
+                # print(a[i][l], end = " ")
+                sys.stdout.write(str(a[i][l]))
+                sys.stdout.write(" ")
+
+            l += 1
 
 
-n = int(input())
-m = int(input())
+# Driver Code
+# spiralPrint()
+
+
 arr = list(int(i) for i in input().strip().split(' '))
-
-newarr = np.array(arr).reshape((n, m))
-print newarr
-wave(newarr)
+row = arr[0] - 1
+col = arr[1] - 1
+new_arr = np.array(arr[2:]).reshape((row + 1, col + 1))
+spiralPrint(row + 1, col + 1, new_arr)

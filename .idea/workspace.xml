@@ -2,13 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd162fee-9491-4be9-bf52-7370713140fd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/HashMaps/IntersectionOfArrays.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HashMaps/Longest_consecutive_subsequence.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HashMaps/Maximum Frequency Number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HashMaps/Pair Sum zero.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HashMaps/Pairs with difference K.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HashMaps/Zero Sum Sub-Array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/Break Words.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/Largest Unique Substring.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/Palindrome substrings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/RotateMatrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HashMaps/Delete_anagrams.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HashMaps/Longest_Subset.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HashMaps/Nearest repition.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays/wave_matrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/wave_matrix.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HashMaps/Longest_consecutive_subsequence.py" beforeDir="false" afterPath="$PROJECT_DIR$/HashMaps/Longest_consecutive_subsequence.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HashMaps/Zero Sum Sub-Array.py" beforeDir="false" afterPath="$PROJECT_DIR$/HashMaps/Zero Sum Sub-Array.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/binarysearch.py" beforeDir="false" afterPath="$PROJECT_DIR$/binarysearch.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,28 +24,22 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HashMaps/Longest_consecutive_subsequence.py">
+        <entry file="file://$PROJECT_DIR$/Arrays/Palindrome substrings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/HashMaps/Pairs with difference K.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="236">
-              <caret line="28" column="20" lean-forward="true" selection-start-line="10" selection-end-line="28" selection-end-column="20" />
+            <state relative-caret-position="152">
+              <caret line="8" selection-start-line="8" selection-end-line="34" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HashMaps/Zero Sum Sub-Array.py">
+        <entry file="file://$PROJECT_DIR$/Arrays/wave_matrix.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="30" selection-start-column="30" selection-end-column="30" />
+            <state relative-caret-position="247">
+              <caret line="13" column="19" lean-forward="true" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -48,8 +47,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Arrays/sort012.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+            <state relative-caret-position="331">
+              <caret line="23" column="54" lean-forward="true" selection-start-line="22" selection-end-line="23" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Arrays/RotateMatrix.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="19" column="25" lean-forward="true" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -83,7 +94,6 @@
         <option value="$PROJECT_DIR$/stack.py" />
         <option value="$PROJECT_DIR$/queue.py" />
         <option value="$PROJECT_DIR$/miss.py" />
-        <option value="$PROJECT_DIR$/binarysearch.py" />
         <option value="$PROJECT_DIR$/sorting/bubblesort.py" />
         <option value="$PROJECT_DIR$/sorting/bubblesortrecursion.py" />
         <option value="$PROJECT_DIR$/sorting/mergesort.py" />
@@ -100,16 +110,24 @@
         <option value="$PROJECT_DIR$/Arrays/pushzerostoEnd.py" />
         <option value="$PROJECT_DIR$/Arrays/traindeptime.py" />
         <option value="$PROJECT_DIR$/Arrays/leaderinarray.py" />
-        <option value="$PROJECT_DIR$/Arrays/wave_matrix.py" />
         <option value="$PROJECT_DIR$/Arrays/longestsubstring.py" />
         <option value="$PROJECT_DIR$/Arrays/noofplatforms.py" />
         <option value="$PROJECT_DIR$/HashMaps/Maximum Frequency Number.py" />
         <option value="$PROJECT_DIR$/HashMaps/IntersectionOfArrays.py" />
         <option value="$PROJECT_DIR$/HashMaps/Pair Sum zero.py" />
-        <option value="$PROJECT_DIR$/HashMaps/Longest_consecutive_subsequence.py" />
-        <option value="$PROJECT_DIR$/Arrays/sort012.py" />
         <option value="$PROJECT_DIR$/HashMaps/Pairs with difference K.py" />
         <option value="$PROJECT_DIR$/HashMaps/Zero Sum Sub-Array.py" />
+        <option value="$PROJECT_DIR$/HashMaps/Delete_anagrams.py" />
+        <option value="$PROJECT_DIR$/binarysearch.py" />
+        <option value="$PROJECT_DIR$/HashMaps/Nearest repition.py" />
+        <option value="$PROJECT_DIR$/HashMaps/Longest_consecutive_subsequence.py" />
+        <option value="$PROJECT_DIR$/HashMaps/Longest_Subset.py" />
+        <option value="$PROJECT_DIR$/Arrays/Break Words.py" />
+        <option value="$PROJECT_DIR$/Arrays/sort012.py" />
+        <option value="$PROJECT_DIR$/Arrays/Largest Unique Substring.py" />
+        <option value="$PROJECT_DIR$/Arrays/Palindrome substrings.py" />
+        <option value="$PROJECT_DIR$/Arrays/wave_matrix.py" />
+        <option value="$PROJECT_DIR$/Arrays/RotateMatrix.py" />
       </list>
     </option>
   </component>
@@ -121,10 +139,26 @@
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="algo-ds" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="algo-ds" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Arrays" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -135,13 +169,12 @@
             <path>
               <item name="algo-ds" type="b2602c69:ProjectViewProjectNode" />
               <item name="algo-ds" type="462c0819:PsiDirectoryNode" />
-              <item name="HashMaps" type="462c0819:PsiDirectoryNode" />
+              <item name="Arrays" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -160,8 +193,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Zero Sum Sub-Array">
-    <configuration name="IntersectionOfArrays" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.RotateMatrix">
+    <configuration name="Break Words" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algo-ds" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -169,11 +202,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HashMaps" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Arrays" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HashMaps/IntersectionOfArrays.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Arrays/Break Words.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -182,7 +215,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Longest_consecutive_subsequence" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Largest Unique Substring" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algo-ds" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -190,11 +223,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HashMaps" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Arrays" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HashMaps/Longest_consecutive_subsequence.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Arrays/Largest Unique Substring.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -203,7 +236,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Pair Sum zero" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Palindrome substrings" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algo-ds" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -211,11 +244,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HashMaps" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Arrays" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HashMaps/Pair Sum zero.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Arrays/Palindrome substrings.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -224,7 +257,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Pairs with difference K" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="RotateMatrix" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algo-ds" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -232,11 +265,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HashMaps" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Arrays" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HashMaps/Pairs with difference K.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Arrays/RotateMatrix.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -245,7 +278,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Zero Sum Sub-Array" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="wave_matrix" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algo-ds" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -253,11 +286,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HashMaps" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Arrays" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HashMaps/Zero Sum Sub-Array.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Arrays/wave_matrix.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -268,11 +301,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Zero Sum Sub-Array" />
-        <item itemvalue="Python.Pairs with difference K" />
-        <item itemvalue="Python.Longest_consecutive_subsequence" />
-        <item itemvalue="Python.Pair Sum zero" />
-        <item itemvalue="Python.IntersectionOfArrays" />
+        <item itemvalue="Python.RotateMatrix" />
+        <item itemvalue="Python.wave_matrix" />
+        <item itemvalue="Python.Palindrome substrings" />
+        <item itemvalue="Python.Largest Unique Substring" />
+        <item itemvalue="Python.Break Words" />
       </list>
     </recent_temporary>
   </component>
@@ -315,19 +348,25 @@
       <option name="project" value="LOCAL" />
       <updated>1546864148961</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Updated hashing">
+      <created>1547038047994</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1547038047994</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="-11" width="1303" height="780" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1940532" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32868218" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49843505" visible="true" weight="0.31782946" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49843505" weight="0.2387597" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -340,6 +379,25 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1940532" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32868218" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49843505" weight="0.31782946" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32868218" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49921754" visible="true" weight="0.32868218" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5015649" side_tool="true" weight="0.33023256" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
@@ -347,10 +405,32 @@
     <MESSAGE value="Added Bubble sort with and without recursion" />
     <MESSAGE value="Added few more patterns and quick sort" />
     <MESSAGE value="Added questions on array" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added questions on array" />
+    <MESSAGE value="Updated hashing" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated hashing" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Arrays/Largest Unique Substring.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Arrays/Largest Unique Substring.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Arrays/Largest Unique Substring.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/stack.py">
@@ -444,13 +524,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/binarysearch.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sorting/quicksort.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -476,13 +549,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Arrays/wave_matrix.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="31" column="21" selection-start-line="31" selection-end-line="32" />
         </state>
       </provider>
     </entry>
@@ -536,31 +602,96 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HashMaps/Longest_consecutive_subsequence.py">
+    <entry file="file://$PROJECT_DIR$/HashMaps/Pairs with difference K.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Arrays/sort012.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="608">
+          <caret line="32" column="20" selection-start-line="14" selection-end-line="32" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/HashMaps/Zero Sum Sub-Array.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="30" selection-start-column="30" selection-end-column="30" />
+        <state relative-caret-position="171">
+          <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HashMaps/Pairs with difference K.py">
+    <entry file="file://$PROJECT_DIR$/HashMaps/Delete_anagrams.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="28" column="20" lean-forward="true" selection-start-line="10" selection-end-line="28" selection-end-column="20" />
+        <state relative-caret-position="422">
+          <caret line="29" column="39" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/binarysearch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HashMaps/Nearest repition.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HashMaps/Longest_consecutive_subsequence.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" selection-start-line="2" selection-start-column="4" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HashMaps/Longest_Subset.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="32" column="29" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="32" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Arrays/Break Words.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="13" selection-start-line="12" selection-end-line="12" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Arrays/Largest Unique Substring.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="23" lean-forward="true" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Arrays/Palindrome substrings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" selection-start-line="8" selection-end-line="34" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Arrays/wave_matrix.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="19" lean-forward="true" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Arrays/sort012.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="23" column="54" lean-forward="true" selection-start-line="22" selection-end-line="23" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Arrays/RotateMatrix.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="25" lean-forward="true" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
