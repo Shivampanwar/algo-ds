@@ -1,5 +1,3 @@
-import sys
-
 import numpy as np
 
 
@@ -15,11 +13,7 @@ def rotate_matrix(a, n):
     return a
 
 
-b = rotate_matrix(np.array([[1, 2, 3], [4, 5, 6], [7, 8, 9]]), 3)
-for i in range(3):
-    for j in range(3):
-        sys.stdout.write(str(b[i][j]))
-        sys.stdout.write(" ")
-    print ("\n")
-x = [1, 2, 3, 4, 5, 6]
-print np.reshape(x, (3, 2))
+x = np.array([[1, 2, 3, 4], [5, 6, 7, 8], [9, 10, 11, 12], [13, 14, 15, 16]])
+print x
+b = rotate_matrix(x, 4)
+print b

@@ -20,6 +20,7 @@ def sortarray(array):
     return array
 
 
+str.replace()
 n = int(input())
 arr = list(int(i) for i in input().strip().split(' '))
 ans = sortarray(arr)
