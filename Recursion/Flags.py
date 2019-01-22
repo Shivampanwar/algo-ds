@@ -5,20 +5,23 @@ def combination_of_words(word):
     :return:
     '''
     word_list = []
-    if len(word) == 2:
-        return [word[0] + 'b' + word[1]]
-    for i in range(1, len(word)):
+    i = 1
+    while i < len(word):
         if word[i] == 'b':
-            pass
+            i += 2
         else:
-            if word[i - 1] == 'b':
-                pass
-            else:
-                word_list.append(word[:i] + 'b' + word[i:])
+            word_list.append(word[:i] + 'b' + word[i:])
+            i += 1
+    if word[0] == 'w':
+        word_list.append('r' + word)
+    else:
+        word_list.append('w' + word)
+    if word[-1] == 'r':
+        word_list.append(word + 'w')
+    else:
+        word_list.append(word + 'r')
     return word_list
 
-
-print combination_of_words('rbwrwbr')
 
 
 def possible_flags(n):
@@ -29,6 +32,8 @@ def possible_flags(n):
         small_output = possible_flags(n - 1)
         for i in small_output:
             main_list.extend(combination_of_words(i))
-        # print main_list
         return list(set(main_list))
-# print possible_flags(4)
+
+
+print len(possible_flags(4))
+#

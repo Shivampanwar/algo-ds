@@ -49,5 +49,5 @@ def interleaves(str1, str2):
         return new_list
 
 
-a = interleaves('b', 'klf')
+a = interleaves('ac', 'f')
 print a

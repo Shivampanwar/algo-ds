@@ -2,14 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd162fee-9491-4be9-bf52-7370713140fd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Recursion/Remove Duplicates Recursively.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion/Replace Character Recursively.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion/interleavings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion/number_of_subsequences.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion/replace_pi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion/return_keypad_code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursion/MergeSort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursion/Return all codes - String.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursion/minimum count.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursion/quicksort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursion/staircase.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays/sort012.py" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/sort012.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/Flags.py" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion/Flags.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/interleavings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion/interleavings.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,21 +18,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Recursion/replace_pi.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Recursion/interleavings.py">
+        <entry file="file://$PROJECT_DIR$/Arrays/sort012.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="48" column="21" selection-start-line="48" selection-start-column="21" selection-end-line="48" selection-end-column="21" />
+            <state relative-caret-position="137">
+              <caret line="21" selection-start-line="21" selection-end-line="27" />
             </state>
           </provider>
         </entry>
@@ -62,12 +53,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/sorting/mergesort.py" />
-        <option value="$PROJECT_DIR$/Patterns/pattern3.py" />
-        <option value="$PROJECT_DIR$/Patterns/pattern1.py" />
-        <option value="$PROJECT_DIR$/Patterns/pattern2.py" />
-        <option value="$PROJECT_DIR$/Patterns/pattern4.py" />
-        <option value="$PROJECT_DIR$/Patterns/pattern5.py" />
         <option value="$PROJECT_DIR$/sorting/insertionsort.py" />
         <option value="$PROJECT_DIR$/Patterns/pattern6.py" />
         <option value="$PROJECT_DIR$/sorting/quicksort.py" />
@@ -113,14 +98,20 @@
         <option value="$PROJECT_DIR$/Recursion/return_keypad_code.py" />
         <option value="$PROJECT_DIR$/Recursion/replace_pi.py" />
         <option value="$PROJECT_DIR$/Recursion/interleavings.py" />
+        <option value="$PROJECT_DIR$/Recursion/minimum count.py" />
+        <option value="$PROJECT_DIR$/Recursion/Flags.py" />
+        <option value="$PROJECT_DIR$/Recursion/Return all codes - String.py" />
+        <option value="$PROJECT_DIR$/Recursion/staircase.py" />
+        <option value="$PROJECT_DIR$/Recursion/MergeSort.py" />
+        <option value="$PROJECT_DIR$/Recursion/quicksort.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="499" />
-    <option name="y" value="-4" />
-    <option name="width" value="851" />
-    <option name="height" value="764" />
+    <option name="x" value="65" />
+    <option name="y" value="12" />
+    <option name="width" value="1427" />
+    <option name="height" value="756" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -154,7 +145,7 @@
             <path>
               <item name="algo-ds" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="Recursion" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="Arrays" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -178,8 +169,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.interleavings">
-    <configuration name="Remove Duplicates Recursively" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.quicksort">
+    <configuration name="Flags" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algo-ds" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -191,7 +182,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Recursion/Remove Duplicates Recursively.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Recursion/Flags.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -200,7 +191,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="interleavings" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="MergeSort" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algo-ds" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -212,7 +203,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Recursion/interleavings.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Recursion/MergeSort.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -221,7 +212,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="number_of_subsequences" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Return all codes - String" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algo-ds" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -233,7 +224,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Recursion/number_of_subsequences.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Recursion/Return all codes - String.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -242,7 +233,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="replace_pi" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="quicksort" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algo-ds" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -254,7 +245,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Recursion/replace_pi.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Recursion/quicksort.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -263,7 +254,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="return_keypad_code" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="staircase" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algo-ds" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -275,7 +266,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Recursion/return_keypad_code.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Recursion/staircase.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -286,11 +277,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.interleavings" />
-        <item itemvalue="Python.replace_pi" />
-        <item itemvalue="Python.return_keypad_code" />
-        <item itemvalue="Python.number_of_subsequences" />
-        <item itemvalue="Python.Remove Duplicates Recursively" />
+        <item itemvalue="Python.quicksort" />
+        <item itemvalue="Python.MergeSort" />
+        <item itemvalue="Python.staircase" />
+        <item itemvalue="Python.Return all codes - String" />
+        <item itemvalue="Python.Flags" />
       </list>
     </recent_temporary>
   </component>
@@ -347,12 +338,18 @@
       <option name="project" value="LOCAL" />
       <updated>1547643006559</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Added more">
+      <created>1547818121389</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1547818121391</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="-11" width="1303" height="780" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1940532" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -400,7 +397,8 @@
     <MESSAGE value="Added questions on array" />
     <MESSAGE value="Updated hashing" />
     <MESSAGE value="Added questions is recursion" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added questions is recursion" />
+    <MESSAGE value="Added more" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added more" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -431,62 +429,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Patterns/pattern5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sorting/insertionsort.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sorting/mergesort.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="589">
-          <caret line="31" column="42" lean-forward="true" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Patterns/pattern4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Patterns/pattern6.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sorting/quicksort.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LinkedList.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1292">
-          <caret line="68" column="28" selection-start-line="68" selection-start-column="28" selection-end-line="68" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Arrays/Find Duplicate.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Arrays/leaderinarray.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
@@ -610,16 +552,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Arrays/wave_matrix.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Arrays/RotateMatrix.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -697,13 +629,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Arrays/sort012.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Recursion/count_zeros.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
@@ -767,17 +692,88 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Recursion/replace_pi.py">
+    <entry file="file://$PROJECT_DIR$/Recursion/minimum count.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        <state relative-caret-position="202">
+          <caret line="18" column="27" lean-forward="true" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Recursion/interleavings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="48" column="21" selection-start-line="48" selection-start-column="21" selection-end-line="48" selection-end-column="21" />
+        <state relative-caret-position="209">
+          <caret line="11" column="6" lean-forward="true" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Recursion/replace_pi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Recursion/Return all codes - String.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="30" column="16" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Recursion/staircase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sorting/mergesort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-43" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Arrays/wave_matrix.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Recursion/Flags.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="41">
+          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Recursion/MergeSort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sorting/quicksort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="16" lean-forward="true" selection-start-line="10" selection-start-column="11" selection-end-line="13" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Recursion/quicksort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="22" lean-forward="true" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Arrays/sort012.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="21" selection-start-line="21" selection-end-line="27" />
         </state>
       </provider>
     </entry>
