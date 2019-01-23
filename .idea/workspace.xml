@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd162fee-9491-4be9-bf52-7370713140fd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Recursion/MergeSort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion/Return all codes - String.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion/minimum count.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion/quicksort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion/staircase.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backtracking/Rat Maze.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backtracking/Sudoku.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recursion/Flags.py" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion/Flags.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recursion/interleavings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion/interleavings.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,11 +14,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Arrays/sort012.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Backtracking/Rat Maze.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="137">
-              <caret line="21" selection-start-line="21" selection-end-line="27" />
+            <state relative-caret-position="456">
+              <caret line="24" column="14" lean-forward="true" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Backtracking/Sudoku.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="887">
+              <caret line="64" column="9" selection-start-line="64" selection-start-column="9" selection-end-line="64" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -53,8 +57,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/sorting/insertionsort.py" />
-        <option value="$PROJECT_DIR$/Patterns/pattern6.py" />
         <option value="$PROJECT_DIR$/sorting/quicksort.py" />
         <option value="$PROJECT_DIR$/Arrays/Find Duplicate.py" />
         <option value="$PROJECT_DIR$/Arrays/sort123.py" />
@@ -104,6 +106,8 @@
         <option value="$PROJECT_DIR$/Recursion/staircase.py" />
         <option value="$PROJECT_DIR$/Recursion/MergeSort.py" />
         <option value="$PROJECT_DIR$/Recursion/quicksort.py" />
+        <option value="$PROJECT_DIR$/Backtracking/Rat Maze.py" />
+        <option value="$PROJECT_DIR$/Backtracking/Sudoku.py" />
       </list>
     </option>
   </component>
@@ -145,7 +149,7 @@
             <path>
               <item name="algo-ds" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="Arrays" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="Backtracking" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -169,28 +173,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.quicksort">
-    <configuration name="Flags" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="algo-ds" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Recursion" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Recursion/Flags.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Sudoku">
     <configuration name="MergeSort" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algo-ds" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -212,7 +195,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Return all codes - String" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Rat Maze" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algo-ds" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -220,11 +203,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Recursion" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Backtracking" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Recursion/Return all codes - String.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Backtracking/Rat Maze.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Sudoku" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="algo-ds" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Backtracking" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Backtracking/Sudoku.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -277,11 +281,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Sudoku" />
+        <item itemvalue="Python.Rat Maze" />
         <item itemvalue="Python.quicksort" />
         <item itemvalue="Python.MergeSort" />
         <item itemvalue="Python.staircase" />
-        <item itemvalue="Python.Return all codes - String" />
-        <item itemvalue="Python.Flags" />
       </list>
     </recent_temporary>
   </component>
@@ -350,6 +354,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="-11" width="1303" height="780" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1940532" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -429,20 +434,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Arrays/leaderinarray.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Arrays/longestsubstring.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/HashMaps/Maximum Frequency Number.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -772,8 +763,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Arrays/sort012.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="21" selection-start-line="21" selection-end-line="27" />
+        <state relative-caret-position="251">
+          <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Backtracking/Rat Maze.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="14" lean-forward="true" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Backtracking/Sudoku.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="887">
+          <caret line="64" column="9" selection-start-line="64" selection-start-column="9" selection-end-line="64" selection-end-column="9" />
         </state>
       </provider>
     </entry>
