@@ -1,11 +1,9 @@
 possible_options = [i for i in range(1, 10)]
-
-
 def find_possible_options(matrix, row, col, n):
     temp_list = []
+    temp_list.extend(matrix[row])
     for i in range(n):
-        temp_list.append(matrix[row][i])
-        temp_list.append(matrix[i][row])
+        temp_list.append(matrix[i][col])
     lower_bound_i = row - row % 3
     lower_bound_j = col - col % 3
     upper_bound_i = lower_bound_i + 2
@@ -17,36 +15,44 @@ def find_possible_options(matrix, row, col, n):
 
 
 def findNexValOption(matrix, row, col, n):
-    for i in range(row, n):
-        for j in range(col, n):
+    for i in range(col, n):
+        if matrix[row][i] == 0:
+            return row, i
+    for i in range(row + 1, n):
+        for j in range(0, n):
             if matrix[i][j] == 0:
                 return i, j
+    return -1, -1
 
 
 def sudoku(matrix, row, col, n):
-    if row >= n - 1 and col >= n - 1:
+    val_i, val_j = findNexValOption(matrix, row, col, n)
+    if val_i >= n - 1 and val_j >= n - 1:
+        return True
+    if val_i == -1 and val_j == -1:
         return True
     else:
-        if matrix[row][col] == 0:
-            possible = find_possible_options(matrix, row, col, n)
-            print possible
-            if len(possible) == 0:
-                return False
-            for i in possible:
-                matrix[row][col] = i
-                val_option = findNexValOption(matrix, row, col, n)
-                print val_option
-                sub_result = sudoku(matrix, val_option[0], val_option[1], n)
-                if sub_result:
-                    return True
-            matrix[row][col] = 0
+        options = find_possible_options(matrix, val_i, val_j, n)
+        if len(options) == 0:
             return False
         else:
-            val_option = findNexValOption(matrix, row, col, n)
-            return sudoku(matrix, val_option[0], val_option[1], n)
+            for i in options:
+                matrix[val_i][val_j] = i
+                x, y = findNexValOption(matrix, val_i, val_j, n)
+                result = sudoku(matrix, x, y, n)
+                if result:
+                    return True
+            matrix[val_i][val_j] = 0
+            return False
 
 
-input = [[5, 1, 7, 6, 0, 0, 0, 3, 4],
+# big_array=[]
+# for i in range(9):
+#     arr = list(int(i) for i in input().strip().split(' '))
+#     big_array.append(arr)
+# print (sudoku(big_array,0,0,9))
+
+data1 = [[5, 1, 7, 6, 0, 0, 0, 3, 4],
          [2, 8, 9, 0, 0, 4, 0, 0, 0],
          [3, 4, 6, 2, 0, 5, 0, 9, 0],
          [6, 0, 2, 0, 0, 0, 0, 1, 0],
@@ -55,4 +61,23 @@ input = [[5, 1, 7, 6, 0, 0, 0, 3, 4],
          [0, 9, 0, 0, 0, 0, 0, 7, 8],
          [7, 0, 3, 4, 0, 0, 5, 6, 0],
          [0, 0, 0, 0, 0, 0, 0, 0, 0]]
-print sudoku(input, 0, 0, 9)
+grid = [[3, 0, 6, 5, 0, 8, 4, 0, 0],
+        [5, 2, 0, 0, 0, 0, 0, 0, 0],
+        [0, 8, 7, 0, 0, 0, 0, 3, 1],
+        [0, 0, 3, 0, 1, 0, 0, 8, 0],
+        [9, 0, 0, 8, 6, 3, 0, 0, 5],
+        [0, 5, 0, 0, 9, 0, 6, 0, 0],
+        [1, 3, 0, 0, 0, 0, 2, 5, 0],
+        [0, 0, 0, 0, 0, 0, 0, 7, 4],
+        [0, 0, 5, 2, 0, 6, 3, 0, 0]]
+#
+data = "9 0 0 0 2 0 7 5 0 6 0 0 0 5 0 0 4 0 0 2 0 4 0 0 0 1 0 2 0 8 0 0 0 0 0 0 0 7 0 5 0 9 0 6 0 0 0 0 0 0 0 4 0 1 0 1 0 0 0 5 0 8 0 0 9 0 0 7 0 0 0 4 0 8 2 0 4 0 0 0 6"
+arr = list(int(i) for i in data.strip().split(' '))
+new_list = []
+j = 0
+for i in range(9):
+    new_list.append(arr[j:j + 9])
+    j += 9
+
+print sudoku(new_list, 0, 0, 9)
+# print find_possible_options(grid,8,8,9)
