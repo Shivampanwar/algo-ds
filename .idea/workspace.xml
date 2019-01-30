@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd162fee-9491-4be9-bf52-7370713140fd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Dynamic Programming/LIS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dynamic Programming/NoOfBts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dynamic Programming/BoreDom.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dynamic Programming/Loot houses.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dynamic Programming/Subarray max sum.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dynamic Programming/Alpha code.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dynamic Programming/Alpha code.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,8 +18,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Arrays/sort012.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="21" selection-start-line="21" selection-end-line="23" selection-end-column="20" />
+            <state relative-caret-position="342">
+              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -28,19 +28,28 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Dynamic Programming/NoOfBts.py">
+        <entry file="file://$PROJECT_DIR$/Dynamic Programming/Subarray max sum.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            <state relative-caret-position="274">
+              <caret line="20" column="27" lean-forward="true" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Dynamic Programming/LIS.py">
+        <entry file="file://$PROJECT_DIR$/Dynamic Programming/Loot houses.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+            <state relative-caret-position="211">
+              <caret line="38" column="9" lean-forward="true" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Dynamic Programming/BoreDom.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -70,9 +79,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/binarysearch.py" />
-        <option value="$PROJECT_DIR$/HashMaps/Nearest repition.py" />
-        <option value="$PROJECT_DIR$/HashMaps/Longest_consecutive_subsequence.py" />
         <option value="$PROJECT_DIR$/HashMaps/Longest_Subset.py" />
         <option value="$PROJECT_DIR$/Arrays/Break Words.py" />
         <option value="$PROJECT_DIR$/Arrays/Largest Unique Substring.py" />
@@ -119,8 +125,11 @@
         <option value="$PROJECT_DIR$/Dynamic Programming/Min steps to 1.py" />
         <option value="$PROJECT_DIR$/Recursion/Return all codes - String.py" />
         <option value="$PROJECT_DIR$/Dynamic Programming/Alpha code.py" />
-        <option value="$PROJECT_DIR$/Dynamic Programming/LIS.py" />
         <option value="$PROJECT_DIR$/Dynamic Programming/NoOfBts.py" />
+        <option value="$PROJECT_DIR$/Dynamic Programming/LIS.py" />
+        <option value="$PROJECT_DIR$/Dynamic Programming/Subarray max sum.py" />
+        <option value="$PROJECT_DIR$/Dynamic Programming/BoreDom.py" />
+        <option value="$PROJECT_DIR$/Dynamic Programming/Loot houses.py" />
       </list>
     </option>
   </component>
@@ -136,22 +145,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
-          <expand>
-            <path>
-              <item name="algo-ds" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-            </path>
-            <path>
-              <item name="algo-ds" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="Dynamic Programming" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -163,6 +156,22 @@
               <item name="algo-ds" type="b2602c69:ProjectViewProjectNode" />
               <item name="algo-ds" type="462c0819:PsiDirectoryNode" />
               <item name="Arrays" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="algo-ds" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="algo-ds" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Dynamic Programming" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -189,8 +198,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.NoOfBts">
-    <configuration name="Alpha code" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Loot houses">
+    <configuration name="BoreDom" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algo-ds" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -202,7 +211,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dynamic Programming/Alpha code.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dynamic Programming/BoreDom.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -232,7 +241,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Min steps to 1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Loot houses" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algo-ds" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -244,7 +253,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dynamic Programming/Min steps to 1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dynamic Programming/Loot houses.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -274,7 +283,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Return all codes - String" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Subarray max sum" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algo-ds" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -282,11 +291,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Recursion" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dynamic Programming" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Recursion/Return all codes - String.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dynamic Programming/Subarray max sum.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -297,11 +306,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Loot houses" />
+        <item itemvalue="Python.BoreDom" />
+        <item itemvalue="Python.Subarray max sum" />
         <item itemvalue="Python.NoOfBts" />
         <item itemvalue="Python.LIS" />
-        <item itemvalue="Python.Alpha code" />
-        <item itemvalue="Python.Return all codes - String" />
-        <item itemvalue="Python.Min steps to 1" />
       </list>
     </recent_temporary>
   </component>
@@ -372,18 +381,26 @@
       <option name="project" value="LOCAL" />
       <updated>1548332615818</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Added more in DP">
+      <created>1548765310096</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1548765310096</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="-11" width="1303" height="780" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1940532" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23474178" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32868218" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4976526" visible="true" weight="0.4356589" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4976526" visible="true" weight="0.29767442" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -425,7 +442,8 @@
     <MESSAGE value="Updated hashing" />
     <MESSAGE value="Added questions is recursion" />
     <MESSAGE value="Added more" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added more" />
+    <MESSAGE value="Added more in DP" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added more in DP" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -461,27 +479,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/HashMaps/Longest_consecutive_subsequence.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" selection-start-line="2" selection-start-column="4" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HashMaps/Longest_Subset.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="367">
-          <caret line="32" column="29" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="32" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Arrays/Break Words.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="13" selection-start-line="12" selection-end-line="12" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Arrays/Largest Unique Substring.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -792,27 +789,48 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Dynamic Programming/NoOfBts.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dynamic Programming/LIS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dynamic Programming/Subarray max sum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="20" column="27" lean-forward="true" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Arrays/sort012.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="21" selection-start-line="21" selection-end-line="23" selection-end-column="20" />
+        <state relative-caret-position="342">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Dynamic Programming/NoOfBts.py">
+    <entry file="file://$PROJECT_DIR$/Dynamic Programming/BoreDom.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        <state relative-caret-position="247">
+          <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Dynamic Programming/LIS.py">
+    <entry file="file://$PROJECT_DIR$/Dynamic Programming/Loot houses.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+        <state relative-caret-position="211">
+          <caret line="38" column="9" lean-forward="true" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
         </state>
       </provider>
     </entry>
