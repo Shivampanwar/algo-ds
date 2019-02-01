@@ -11,4 +11,22 @@ def boredom(array):
     return dp[-1]
 
 
-print boredom([1, 2, 3, 4])
+def boredom2(array):
+    if len(array) == 1:
+        return array[0]
+    if len(array) == 0:
+        return 0
+    else:
+        exclude = boredom2((array[1:]))
+        if array[1] - array[0] == 1:
+            idx = 1
+            while idx < len(array) and array[idx] - array[0] is 1:
+                idx += 1
+            include = boredom2(array[idx:]) + array[0]
+        else:
+            include = boredom2(array[1:]) + array[0]
+        return max(exclude, include)
+
+
+# print boredom([1,2,3,4])
+print boredom2([1, 2, 3, 4, 4, 6, 6])
