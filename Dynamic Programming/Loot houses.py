@@ -36,6 +36,13 @@ def loot_effective(array):
 print loot_effective(data)
 
 
+def loot_temp(array):
+    dp = []
+    dp.append(array[0])
+    dp.append(array[1])
+    for i in range(1, n):
+        dp.append(max(dp[i - 2]) + array[i])
+    return max(dp)
 def loot_recursive(array):
     if len(array) == 1:
         return array[0]
