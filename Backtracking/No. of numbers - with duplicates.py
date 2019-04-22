@@ -39,4 +39,4 @@ for i in range(10):
 for i in array:
     freq_array[i] += 1
 
-print count_digits(array, freq_array, len(array))
+print(count_digits(array, freq_array, len(array)))

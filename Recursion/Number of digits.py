@@ -1,9 +1,8 @@
-def count_digits(n):
-    if n < 10:
-        return 1
+def array_sum(array):
+    if len(array) == 1:
+        return array[0]
     else:
-        small_output = count_digits(n / 10)
-        return 1 + small_output
+        return array[0] + array_sum(array[1:])
 
 
-print count_digits(1234555)
+print(array_sum([1, 2, 3]))

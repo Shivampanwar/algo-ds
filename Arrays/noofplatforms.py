@@ -1,3 +1,17 @@
+'''
+    Given two arrays (both of size n), one containing
+    arrival time of trains and other containing the corresponding
+     trains departure time (in the form of an integer) respectively
+    .Return the minimum number of platform required, such that no train waits.
+    Arrival and departure time of a train can't be same.
+    Input:
+    6
+    900 940 950 1100 1500 1800
+    910 1200 1120 1130 1900 2000
+    Sample Output 1 :
+    3
+'''
+
 def countplatforms(array1, array2):
     temp_array = []
     temp_array.append(array2[0])

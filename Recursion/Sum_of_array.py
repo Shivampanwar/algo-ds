@@ -6,4 +6,4 @@ def array_sum(array):
         return array[0] + small_sum
 
 
-print array_sum([9, 9, 9])
+print(array_sum([9, 9, 9]))

@@ -2,18 +2,49 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd162fee-9491-4be9-bf52-7370713140fd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Dynamic Programming/Shortest uncommon sequence.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/Divide linked list in two.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/Even after Odd LinkedList.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/KReverseLinkedList.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/Let last be the first.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/Palindrome LinkedList.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/Print ith node.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/Swap two Node of LL.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/Union.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/linked_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedList/Merge Two Sorted LL.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedList/MidPointofLL.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trees/BST/BSTtoLL.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trees/BST/SearchinBst.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trees/BST/bstbasics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trees/BinaryTress/Code : Mirror.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trees/BinaryTress/Construct Tree from Preorder and Inorder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trees/BinaryTress/Construct tree from inorder and postorder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trees/BinaryTress/DiameterofTree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trees/BinaryTress/Find a node.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trees/BinaryTress/Longest leaf to root path.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trees/BinaryTress/Min and Max of Binary Tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trees/BinaryTress/Mirror image.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trees/BinaryTress/Postorder Binary Tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trees/BinaryTress/Print Level Wise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trees/BinaryTress/basic binary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trees/BinaryTress/extra.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trees/BinaryTress/height_of_binary_tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trees/Count Nodes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trees/Find sum of nodes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trees/GenericTree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trees/Max data node.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trees/Next larger element.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trees/Node having sum of children and node is max.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trees/Post Order.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trees/Print Level Wise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trees/Replace node with depth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trees/Second Largest Element In Tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trees/count_leaf_nodes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trees/height_of_tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/algo-ds.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/algo-ds.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dynamic Programming/Ways To Make Coin Change.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dynamic Programming/Ways To Make Coin Change.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays/Find Duplicate.py" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/Find Duplicate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays/noofplatforms.py" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/noofplatforms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backtracking/No. of numbers - with duplicates.py" beforeDir="false" afterPath="$PROJECT_DIR$/Backtracking/No. of numbers - with duplicates.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dynamic Programming/Alpha code.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dynamic Programming/Alpha code.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dynamic Programming/Min Chocolates.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dynamic Programming/Min Chocolates.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinkedList/Union.py" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedList/Union.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/Number of digits.py" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion/Number of digits.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/Sum_of_array.py" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion/Sum_of_array.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/queue.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,28 +55,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LinkedList/Even after Odd LinkedList.py">
+        <entry file="file://$PROJECT_DIR$/Trees/BST/SearchinBst.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="363">
-              <caret line="34" lean-forward="true" selection-end-line="34" />
+            <state relative-caret-position="367">
+              <caret line="53" column="60" lean-forward="true" selection-start-line="53" selection-end-line="54" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/LinkedList/Union.py">
+        <entry file="file://$PROJECT_DIR$/Trees/BST/BSTtoLL.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="363">
-              <caret line="33" column="12" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LinkedList/Divide linked list in two.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="58" />
+            <state relative-caret-position="307">
+              <caret line="70" lean-forward="true" selection-start-line="70" selection-end-line="70" />
             </state>
           </provider>
         </entry>
@@ -55,6 +77,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Python Stub" />
         <option value="Python Script" />
       </list>
     </option>
@@ -62,6 +85,8 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>print</find>
+      <find>print</find>
+      <find>sys.s</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -75,47 +100,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Recursion/interleavings.py" />
-        <option value="$PROJECT_DIR$/Recursion/minimum count.py" />
-        <option value="$PROJECT_DIR$/Recursion/Flags.py" />
-        <option value="$PROJECT_DIR$/Recursion/staircase.py" />
-        <option value="$PROJECT_DIR$/Recursion/MergeSort.py" />
-        <option value="$PROJECT_DIR$/Recursion/quicksort.py" />
-        <option value="$PROJECT_DIR$/Backtracking/Rat Maze.py" />
-        <option value="$PROJECT_DIR$/Backtracking/Sudoku.py" />
-        <option value="$PROJECT_DIR$/Backtracking/Code : No. of numbers - with duplicates.py" />
-        <option value="$PROJECT_DIR$/Backtracking/No. of numbers - with duplicates.py" />
-        <option value="$PROJECT_DIR$/Backtracking/Return subset of an array.py" />
-        <option value="$PROJECT_DIR$/Backtracking/LExographical_Order.py" />
-        <option value="$PROJECT_DIR$/Backtracking/Print Subset Sum to K.py" />
-        <option value="$PROJECT_DIR$/Backtracking/N Queen.py" />
-        <option value="$PROJECT_DIR$/Backtracking/Combinational Sum.py" />
-        <option value="$PROJECT_DIR$/Backtracking/Lexographical_Order.py" />
-        <option value="$PROJECT_DIR$/HashMaps/Fibonacci.py" />
-        <option value="$PROJECT_DIR$/Dynamic Programming/Fibonacci.py" />
-        <option value="$PROJECT_DIR$/Dynamic Programming/Min steps to 1.py" />
-        <option value="$PROJECT_DIR$/Recursion/Return all codes - String.py" />
-        <option value="$PROJECT_DIR$/Dynamic Programming/Alpha code.py" />
-        <option value="$PROJECT_DIR$/Dynamic Programming/NoOfBts.py" />
-        <option value="$PROJECT_DIR$/Dynamic Programming/Subarray max sum.py" />
-        <option value="$PROJECT_DIR$/Dynamic Programming/Min Chocolates.py" />
-        <option value="$PROJECT_DIR$/Dynamic Programming/Min Squares.py" />
-        <option value="$PROJECT_DIR$/Dynamic Programming/coin tower.py" />
-        <option value="$PROJECT_DIR$/Complex Numbers.py" />
-        <option value="$PROJECT_DIR$/Dynamic Programming/No of AP's.py" />
-        <option value="$PROJECT_DIR$/Arrays/sort012.py" />
-        <option value="$PROJECT_DIR$/Dynamic Programming/LIS.py" />
-        <option value="$PROJECT_DIR$/Dynamic Programming/NoOfBSTs.py" />
-        <option value="$PROJECT_DIR$/Dynamic Programming/Loot houses.py" />
-        <option value="$PROJECT_DIR$/Dynamic Programming/BoreDom.py" />
-        <option value="$PROJECT_DIR$/OOPs/Complex numbers.py" />
-        <option value="$PROJECT_DIR$/OOPs/Polynomial.py" />
-        <option value="$PROJECT_DIR$/Dynamic Programming/Min_cost_path.py" />
-        <option value="$PROJECT_DIR$/Dynamic Programming/Longest common subsequence.py" />
-        <option value="$PROJECT_DIR$/Dynamic Programming/Min Edit Distance.py" />
-        <option value="$PROJECT_DIR$/Dynamic Programming/MCM.py" />
-        <option value="$PROJECT_DIR$/Dynamic Programming/Max sub-square with all 0s.py" />
-        <option value="$PROJECT_DIR$/Dynamic Programming/Ways To Make Coin Change.py" />
         <option value="$PROJECT_DIR$/Dynamic Programming/Shortest uncommon sequence.py" />
         <option value="$PROJECT_DIR$/LinkedList/linked_list.py" />
         <option value="$PROJECT_DIR$/LinkedList/Print ith node.py" />
@@ -126,14 +110,55 @@
         <option value="$PROJECT_DIR$/LinkedList/Divide linked list in two.py" />
         <option value="$PROJECT_DIR$/LinkedList/Even after Odd LinkedList.py" />
         <option value="$PROJECT_DIR$/LinkedList/Union.py" />
+        <option value="$PROJECT_DIR$/LinkedList/MidPointofLL.py" />
+        <option value="$PROJECT_DIR$/LinkedList/Merge Two Sorted LL.py" />
+        <option value="$PROJECT_DIR$/Trees/GenericTree.py" />
+        <option value="$PROJECT_DIR$/Trees/Print Level Wise.py" />
+        <option value="$PROJECT_DIR$/Trees/Count Nodes.py" />
+        <option value="$PROJECT_DIR$/Trees/Find sum of nodes.py" />
+        <option value="$PROJECT_DIR$/Trees/Max data node.py" />
+        <option value="$PROJECT_DIR$/Trees/count_leaf_nodes.py" />
+        <option value="$PROJECT_DIR$/Trees/Post Order.py" />
+        <option value="$PROJECT_DIR$/Trees/Next larger element.py" />
+        <option value="$PROJECT_DIR$/Trees/Node having sum of children and node is max.py" />
+        <option value="$PROJECT_DIR$/Trees/Second Largest Element In Tree.py" />
+        <option value="$PROJECT_DIR$/Trees/Replace node with depth.py" />
+        <option value="$PROJECT_DIR$/Trees/BinaryTress/basic binary.py" />
+        <option value="$PROJECT_DIR$/Trees/BinaryTress/extra.py" />
+        <option value="$PROJECT_DIR$/Trees/BinaryTress/Find a node.py" />
+        <option value="$PROJECT_DIR$/Trees/BinaryTress/Postorder Binary Tree.py" />
+        <option value="$PROJECT_DIR$/Trees/BinaryTress/Code : Mirror.py" />
+        <option value="$PROJECT_DIR$/Trees/BinaryTress/Mirror image.py" />
+        <option value="$PROJECT_DIR$/Trees/BinaryTress/Print Level Wise.py" />
+        <option value="$PROJECT_DIR$/Trees/height_of_tree.py" />
+        <option value="$PROJECT_DIR$/Trees/BinaryTress/height_of_binary_tree.py" />
+        <option value="$PROJECT_DIR$/Trees/BinaryTress/Construct Tree from Preorder and Inorder.py" />
+        <option value="$PROJECT_DIR$/Trees/BinaryTress/DiameterofTree.pyi" />
+        <option value="$PROJECT_DIR$/Recursion/Number of digits.py" />
+        <option value="$PROJECT_DIR$/Recursion/Sum_of_array.py" />
+        <option value="$PROJECT_DIR$/Backtracking/No. of numbers - with duplicates.py" />
+        <option value="$PROJECT_DIR$/Dynamic Programming/Alpha code.py" />
+        <option value="$PROJECT_DIR$/Dynamic Programming/Min Chocolates.py" />
+        <option value="$PROJECT_DIR$/Trees/BinaryTress/Construct tree from inorder and postorder.py" />
+        <option value="$PROJECT_DIR$/Trees/BinaryTress/Min and Max of Binary Tree.py" />
+        <option value="$PROJECT_DIR$/Trees/BinaryTress/Longest leaf to root path.py" />
+        <option value="$PROJECT_DIR$/Trees/BinaryTress/DiameterofTree.py" />
+        <option value="$PROJECT_DIR$/Arrays/Find Duplicate.py" />
+        <option value="$PROJECT_DIR$/Arrays/noofplatforms.py" />
+        <option value="$PROJECT_DIR$/HashMaps/Zero Sum Sub-Array.py" />
+        <option value="$PROJECT_DIR$/practice.py" />
+        <option value="$PROJECT_DIR$/Trees/BST/bstbasics.py" />
+        <option value="$PROJECT_DIR$/Trees/BST/SearchinBst.py" />
+        <option value="$PROJECT_DIR$/Trees/BST/BST elements in range.py" />
+        <option value="$PROJECT_DIR$/Trees/BST/BSTtoLL.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="51" />
-    <option name="y" value="119" />
-    <option name="width" value="1301" />
-    <option name="height" value="748" />
+    <option name="x" value="608" />
+    <option name="y" value="271" />
+    <option name="width" value="1233" />
+    <option name="height" value="740" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -141,22 +166,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
-          <expand>
-            <path>
-              <item name="algo-ds" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-            </path>
-            <path>
-              <item name="algo-ds" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="LinkedList" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -173,9 +182,32 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="algo-ds" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/Desktop/algo-ds" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="algo-ds" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/Desktop/algo-ds" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Trees" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="algo-ds" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/Desktop/algo-ds" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Trees" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="BST" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -194,8 +226,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Union">
-    <configuration name="Divide linked list in two" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.BSTtoLL">
+    <configuration name="BSTtoLL" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algo-ds" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -203,11 +235,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LinkedList" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Trees/BST" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LinkedList/Divide linked list in two.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Trees/BST/BSTtoLL.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -216,7 +248,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="KReverseLinkedList" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Min and Max of Binary Tree" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algo-ds" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -224,11 +256,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LinkedList" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Trees/BinaryTress" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LinkedList/KReverseLinkedList.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Trees/BinaryTress/Min and Max of Binary Tree.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -237,7 +269,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Palindrome LinkedList" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="SearchinBst" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algo-ds" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -245,11 +277,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LinkedList" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Trees/BST" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LinkedList/Palindrome LinkedList.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Trees/BST/SearchinBst.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -258,7 +290,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Swap two Node of LL" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="noofplatforms" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algo-ds" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -266,11 +298,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LinkedList" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Arrays" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LinkedList/Swap two Node of LL.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Arrays/noofplatforms.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -279,7 +311,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Union" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="practice" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algo-ds" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -287,11 +319,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LinkedList" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LinkedList/Union.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -302,11 +334,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Union" />
-        <item itemvalue="Python.Divide linked list in two" />
-        <item itemvalue="Python.KReverseLinkedList" />
-        <item itemvalue="Python.Swap two Node of LL" />
-        <item itemvalue="Python.Palindrome LinkedList" />
+        <item itemvalue="Python.BSTtoLL" />
+        <item itemvalue="Python.SearchinBst" />
+        <item itemvalue="Python.practice" />
+        <item itemvalue="Python.noofplatforms" />
+        <item itemvalue="Python.Min and Max of Binary Tree" />
       </list>
     </recent_temporary>
   </component>
@@ -412,20 +444,27 @@
       <option name="project" value="LOCAL" />
       <updated>1550062648168</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Added in LinkedList">
+      <created>1550507720277</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1550507720277</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="64" y="-11" width="1303" height="780" extended-state="6" />
+    <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23474178" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4989429" visible="true" weight="0.23474178" />
+      <window_info id="Structure" order="1" sideWeight="0.5010571" side_tool="true" weight="0.23474178" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32868218" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4976526" visible="true" weight="0.29767442" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4976526" visible="true" weight="0.2929746" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39910313" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -438,19 +477,19 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1940532" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4989429" visible="true" weight="0.23474178" />
+      <window_info id="Structure" order="1" sideWeight="0.5010571" side_tool="true" weight="0.23474178" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32868218" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49843505" weight="0.31782946" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4976526" visible="true" weight="0.2929746" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32868218" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49921754" visible="true" weight="0.32868218" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5015649" side_tool="true" weight="0.33023256" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49921754" weight="0.32868218" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5023474" side_tool="true" weight="0.39224806" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -468,7 +507,8 @@
     <MESSAGE value="Added more" />
     <MESSAGE value="Added more in DP and classes" />
     <MESSAGE value="Added more in DP" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added more in DP" />
+    <MESSAGE value="Added in LinkedList" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added in LinkedList" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -504,322 +544,322 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Backtracking/Lexographical_Order.py">
+    <entry file="file://$PROJECT_DIR$/queue.py" />
+    <entry file="file://$PROJECT_DIR$/Trees/BinaryTress/Print Level Wise.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="15" lean-forward="true" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+        <state relative-caret-position="363">
+          <caret line="83" column="10" lean-forward="true" selection-start-line="83" selection-start-column="10" selection-end-line="83" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HashMaps/Fibonacci.py" />
-    <entry file="file://$PROJECT_DIR$/Dynamic Programming/Fibonacci.py">
+    <entry file="file://$PROJECT_DIR$/Trees/height_of_tree.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="37" column="21" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
+        <state relative-caret-position="380">
+          <caret line="20" column="14" lean-forward="true" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Recursion/Check Number.py">
+    <entry file="file://$PROJECT_DIR$/Trees/BinaryTress/Mirror image.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="494">
+          <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Recursion/check_pallindrome.py">
+    <entry file="file://$PROJECT_DIR$/Trees/BinaryTress/height_of_binary_tree.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="10" selection-end-column="56" />
+        <state relative-caret-position="190">
+          <caret line="10" selection-start-line="10" selection-end-line="16" selection-end-column="46" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Recursion/all index array.py">
+    <entry file="file://$PROJECT_DIR$/Dynamic Programming/Min Edit Distance.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Recursion/interleavings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="6" lean-forward="true" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dynamic Programming/Min steps to 1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="61" column="21" lean-forward="true" selection-start-line="61" selection-start-column="21" selection-end-line="61" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Recursion/is_array_sorted.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Recursion/MergeSort.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+        <state relative-caret-position="555">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Recursion/Number of digits.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="95">
+          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Recursion/Return all codes - String.py">
+    <entry file="file://$PROJECT_DIR$/Recursion/Sum_of_array.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="28" selection-start-line="28" selection-end-line="35" selection-end-column="29" />
+        <state relative-caret-position="152">
+          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Dynamic Programming/Subarray max sum.py">
+    <entry file="file://$PROJECT_DIR$/Recursion/Geometric_Sum.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Recursion/MergeSort.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+        <state relative-caret-position="392">
+          <caret line="31" column="53" selection-start-line="31" selection-end-line="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Complex Numbers.py" />
-    <entry file="file://$PROJECT_DIR$/Dynamic Programming/Alpha code.py">
+    <entry file="file://$PROJECT_DIR$/Backtracking/Rat Maze.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-64">
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Backtracking/Return subset of an array.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Backtracking/Sudoku.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="67" column="36" lean-forward="true" selection-start-line="67" selection-start-column="36" selection-end-line="67" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Backtracking/No. of numbers - with duplicates.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="570">
-          <caret line="30" column="21" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Backtracking/Lexographical_Order.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="383">
+          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Backtracking/Combinational Sum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="20" lean-forward="true" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dynamic Programming/Alpha code.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1425">
+          <caret line="75" column="19" selection-start-line="75" selection-start-column="19" selection-end-line="75" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dynamic Programming/Fibonacci.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Arrays/wave_matrix.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Dynamic Programming/LIS.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dynamic Programming/Min Squares.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dynamic Programming/NoOfBSTs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="20" lean-forward="true" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dynamic Programming/coin tower.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="60" column="4" selection-start-line="60" selection-start-column="4" selection-end-line="60" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dynamic Programming/Loot houses.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dynamic Programming/BoreDom.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="42" column="12" lean-forward="true" selection-start-line="42" selection-start-column="12" selection-end-line="46" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dynamic Programming/Min Chocolates.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="31" lean-forward="true" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/OOPs/Complex numbers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" selection-start-line="14" selection-end-line="16" />
+        <state relative-caret-position="345">
+          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Dynamic Programming/NoOfBts.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="20" />
+        <state relative-caret-position="-174" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dynamic Programming/NoOfBSTs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/OOPs/Polynomial.py">
+    <entry file="file://$PROJECT_DIR$/Dynamic Programming/Subarray max sum.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/Dynamic Programming/Min Chocolates.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dynamic Programming/Loot houses.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="40" column="23" selection-start-line="40" selection-start-column="23" selection-end-line="40" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Dynamic Programming/No of AP's.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Trees/Print Level Wise.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Trees/Second Largest Element In Tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="34" column="22" lean-forward="true" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Trees/BinaryTress/Postorder Binary Tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-244">
+          <caret line="22" column="28" lean-forward="true" selection-start-line="16" selection-start-column="25" selection-end-line="22" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Trees/BinaryTress/Construct tree from inorder and postorder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="383">
+          <caret line="74" column="20" selection-start-line="74" selection-start-column="20" selection-end-line="74" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Trees/BinaryTress/Construct Tree from Preorder and Inorder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Trees/BinaryTress/Find a node.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="383">
+          <caret line="55" selection-end-line="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Trees/BinaryTress/Code : Mirror.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" lean-forward="true" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Trees/BinaryTress/Longest leaf to root path.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-line="68" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Trees/BinaryTress/Min and Max of Binary Tree.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
-          <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Dynamic Programming/Min_cost_path.py">
+    <entry file="file://$PROJECT_DIR$/Trees/BinaryTress/DiameterofTree.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1064">
-          <caret line="56" column="21" selection-start-line="56" selection-start-column="21" selection-end-line="56" selection-end-column="21" />
+        <state relative-caret-position="383">
+          <caret line="78" column="25" selection-start-line="78" selection-start-column="25" selection-end-line="78" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Dynamic Programming/Longest common subsequence.py">
+    <entry file="file://$PROJECT_DIR$/Trees/Count Nodes.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1159">
-          <caret line="61" selection-start-line="61" selection-end-line="61" />
+        <state relative-caret-position="95">
+          <caret line="5" column="22" selection-start-line="34" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Patterns/pattern4.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Arrays/Break Words.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Arrays/Palindrome substrings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Arrays/noofplatforms.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="6" selection-end-column="8" />
+        <state relative-caret-position="190">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Arrays/leaderinarray.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Arrays/longestsubstring.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Arrays/wave_matrix.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Arrays/Break Words.py">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Arrays/Find Duplicate.py">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/HashMaps/IntersectionOfArrays.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Arrays/RotateMatrix.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dynamic Programming/Min Edit Distance.py">
+    <entry file="file://$PROJECT_DIR$/HashMaps/Zero Sum Sub-Array.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="31" column="23" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="31" selection-end-column="23" />
+        <state relative-caret-position="22">
+          <caret line="3" column="23" lean-forward="true" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Dynamic Programming/Max sub-square with all 0s.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dynamic Programming/MCM.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="59" column="8" selection-start-line="59" selection-start-column="8" selection-end-line="59" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Arrays/sort012.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="54" lean-forward="true" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="54" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dynamic Programming/Ways To Make Coin Change.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1007">
-          <caret line="53" column="16" selection-start-line="53" selection-start-column="16" selection-end-line="53" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dynamic Programming/Shortest uncommon sequence.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="42" column="12" selection-start-line="42" selection-start-column="12" selection-end-line="42" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LinkedList/Swap two Node of LL.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="75" column="18" selection-start-line="75" selection-start-column="18" selection-end-line="75" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LinkedList/Palindrome LinkedList.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="43" lean-forward="true" selection-start-column="1" selection-end-line="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LinkedList/Print ith node.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="89" column="10" selection-start-line="89" selection-end-line="90" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LinkedList/Let last be the first.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LinkedList/linked_list.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LinkedList/KReverseLinkedList.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="79" lean-forward="true" selection-end-line="79" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LinkedList/Divide linked list in two.py">
+    <entry file="file://$PROJECT_DIR$/HashMaps/Longest_Subset.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret selection-end-line="58" />
+          <caret lean-forward="true" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LinkedList/Even after Odd LinkedList.py">
+    <entry file="file://$PROJECT_DIR$/HashMaps/Longest_consecutive_subsequence.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="34" lean-forward="true" selection-end-line="34" />
+        <state relative-caret-position="326">
+          <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LinkedList/Union.py">
+    <entry file="file://$PROJECT_DIR$/HashMaps/Pair Sum zero.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Trees/BST/bstbasics.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="33" column="12" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
+        <state relative-caret-position="383">
+          <caret line="73" selection-start-line="73" selection-end-line="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Trees/BST/SearchinBst.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="53" column="60" lean-forward="true" selection-start-line="53" selection-end-line="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Trees/BST/BSTtoLL.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="70" lean-forward="true" selection-start-line="70" selection-end-line="70" />
         </state>
       </provider>
     </entry>
