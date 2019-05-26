@@ -12,6 +12,7 @@ def binsearch_loop(array,value):
 
     return -1
 
+
 test_list = [1,3,9,11,15]
 print binsearch_loop(test_list,6)
 print binsearch_loop(test_list,15)#
